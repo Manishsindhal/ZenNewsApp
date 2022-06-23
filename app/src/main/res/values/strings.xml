@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">News App</string>
+
+    <string name="us_lang">US</string>
+    <string name="ca_lang">CA</string>
+
+    <string name="pref_country_code_key">COUNTRY_CODE</string>
+
+    <string name="sample_source">Sample news source</string>
+    <string name="sample_title">Sample news title</string>
+    <string name="sample_title_long">Sample news title long</string>
+    <string name="sample_description">Sample news description</string>
+    <string name="image_desc">Image for the News Post</string>
+
+    <string name="title_headlines">Headlines</string>
+    <string name="title_sources">Sources</string>
+
+    <string name="image_desc_open_in_browser_button">open in browser button</string>
+    <string name="bottom_sheet_option_open_in_browser">Open in browser</string>
+    <string name="button_read_full_story">read full story</string>
+
+    <string name="image_desc_source_image">Source Image</string>
+    <string name="sample_category">Business</string>
+
+    <string name="sample_page">1</string>
+</resources>

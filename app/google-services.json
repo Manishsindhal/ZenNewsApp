@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828039327128",
+    "project_id": "news-app-fac8e",
+    "storage_bucket": "news-app-fac8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828039327128:android:424a7f0289cbc978fc0fed",
+        "android_client_info": {
+          "package_name": "com.zensar.manish.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828039327128-6ibj6qii5i4rpspkauh0qu1n26jjfst9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zensar.manish.newsapp",
+            "certificate_hash": "4336c9071cb47e08a5f0268f18512cf18ba3b18a"
+          }
+        },
+        {
+          "client_id": "828039327128-slc6j79ecplt1q8a12fjp147h9mmhcnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKKIP2nBklaWxIWgmTA8q4UXd0_NSyeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828039327128-slc6j79ecplt1q8a12fjp147h9mmhcnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

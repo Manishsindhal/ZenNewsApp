@@ -22,16 +22,4 @@ public class NewsViewModel extends AndroidViewModel {
     public LiveData<List<Article>> getNewsHeadlines(Specification specification) {
         return newsRepository.getHeadlines(specification);
     }
-
-//    public LiveData<List<Article>> getAllSaved() {
-//        return newsRepository.getSaved();
-//    }
-
-//    public LiveData<Boolean> isSaved(int articleId) {
-//        return newsRepository.isSaved(articleId);
-//    }
-
-//    public void toggleSave(int articleId) {
-//        newsRepository.removeSaved(articleId);
-//    }
 }

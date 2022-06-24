@@ -41,7 +41,7 @@ public class NewsApiClient {
     private static NewsApiClient sInstance;
 
     // Required private constructor
-    private NewsApiClient() {
+    public NewsApiClient() {
     }
 
     /**
